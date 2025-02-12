@@ -1,4 +1,4 @@
-# JobBoard  
+# Springboard Job Board  
 A modern job board platform built with **React**, **Spring Boot**, **PostgreSQL**, and **Tailwind CSS**. This project allows users to post and search for jobs, offering a clean and responsive interface.
 
 ## Features  
